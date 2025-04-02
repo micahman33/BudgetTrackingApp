@@ -1,0 +1,157 @@
+Department,Category,Month,Year,Budgeted,Actual,Notes
+Marketing,Advertising,January,2024,15000,16250,Super Bowl campaign
+Marketing,Events,January,2024,8000,7350,Trade show expenses
+Marketing,Digital Marketing,January,2024,12000,11875,SEM and social ads
+Marketing,Content Creation,January,2024,5000,5120,Blog writers and designers
+Marketing,Advertising,February,2024,10000,9750,Regular ad spend
+Marketing,Events,February,2024,2500,3750,Unexpected industry mixer
+Marketing,Digital Marketing,February,2024,12000,12100,SEM and social ads
+Marketing,Content Creation,February,2024,5000,4850,Blog writers and designers
+Marketing,Advertising,March,2024,10000,10250,Regular ad spend
+Marketing,Events,March,2024,7500,8200,Annual conference
+Marketing,Digital Marketing,March,2024,12000,11200,SEM and social ads
+Marketing,Content Creation,March,2024,5000,5280,Blog writers and designers
+Marketing,Advertising,April,2024,12000,11500,Regular ad spend
+Marketing,Events,April,2024,3500,2950,Local networking event
+Marketing,Digital Marketing,April,2024,12000,12750,Expanded social campaign
+Marketing,Content Creation,April,2024,5000,5050,Blog writers and designers
+Sales,Salaries,January,2024,85000,85000,Base salaries
+Sales,Commissions,January,2024,25000,28750,Higher than expected sales
+Sales,Travel,January,2024,12000,10250,Client visits
+Sales,Software,January,2024,4500,4500,CRM subscription
+Sales,Training,January,2024,7500,6800,New hire onboarding
+Sales,Salaries,February,2024,85000,85000,Base salaries
+Sales,Commissions,February,2024,22000,19500,Slower month
+Sales,Travel,February,2024,12000,13250,Additional client meetings
+Sales,Software,February,2024,4500,4500,CRM subscription
+Sales,Training,February,2024,2500,2250,Regular training
+Sales,Salaries,March,2024,87000,87000,Base salaries + new hire
+Sales,Commissions,March,2024,26000,29500,End of quarter push
+Sales,Travel,March,2024,15000,16250,Conference travel included
+Sales,Software,March,2024,4500,4500,CRM subscription
+Sales,Training,March,2024,2500,2500,Regular training
+Sales,Salaries,April,2024,87000,87000,Base salaries
+Sales,Commissions,April,2024,24000,22750,Average month
+Sales,Travel,April,2024,12000,11800,Client visits
+Sales,Software,April,2024,5500,5500,CRM subscription + new add-on
+Sales,Training,April,2024,2500,2750,Additional workshop
+Operations,Office Rent,January,2024,22000,22000,Main office
+Operations,Utilities,January,2024,3500,3900,Higher heating costs
+Operations,Insurance,January,2024,4500,4500,Property and liability
+Operations,Office Supplies,January,2024,1200,1350,Regular supplies
+Operations,Cleaning Services,January,2024,1800,1800,Twice weekly service
+Operations,Office Rent,February,2024,22000,22000,Main office
+Operations,Utilities,February,2024,3500,3750,Still higher heating
+Operations,Insurance,February,2024,4500,4500,Property and liability
+Operations,Office Supplies,February,2024,1200,950,Lower usage
+Operations,Cleaning Services,February,2024,1800,1800,Twice weekly service
+Operations,Office Rent,March,2024,22000,22000,Main office
+Operations,Utilities,March,2024,3200,3150,Seasonal adjustment
+Operations,Insurance,March,2024,4500,4500,Property and liability
+Operations,Office Supplies,March,2024,1200,1450,Quarterly stock-up
+Operations,Cleaning Services,March,2024,2200,2200,Extra deep clean
+Operations,Office Rent,April,2024,22000,22000,Main office
+Operations,Utilities,April,2024,3000,2850,Spring rates
+Operations,Insurance,April,2024,4500,4500,Property and liability
+Operations,Office Supplies,April,2024,1200,1275,Regular supplies
+Operations,Cleaning Services,April,2024,1800,1800,Twice weekly service
+IT,Hardware,January,2024,8500,12750,Emergency server replacement
+IT,Software Licenses,January,2024,15000,15000,Annual subscriptions
+IT,Cloud Services,January,2024,7500,7350,AWS and Azure
+IT,IT Support,January,2024,6500,6500,Help desk contract
+IT,Cybersecurity,January,2024,5500,5500,Security tools
+IT,Hardware,February,2024,4500,4250,Regular replacements
+IT,Software Licenses,February,2024,2500,3750,Additional license purchases
+IT,Cloud Services,February,2024,7500,7650,Slight usage increase
+IT,IT Support,February,2024,6500,6500,Help desk contract
+IT,Cybersecurity,February,2024,1200,1200,Monthly tools
+IT,Hardware,March,2024,4500,4250,Regular replacements
+IT,Software Licenses,March,2024,2500,2500,Monthly licenses
+IT,Cloud Services,March,2024,7500,8200,Higher compute usage
+IT,IT Support,March,2024,6500,6500,Help desk contract
+IT,Cybersecurity,March,2024,1200,1200,Monthly tools
+IT,Hardware,April,2024,9500,9750,Planned laptop refresh
+IT,Software Licenses,April,2024,2500,2500,Monthly licenses
+IT,Cloud Services,April,2024,7500,7250,Optimization savings
+IT,IT Support,April,2024,6500,6500,Help desk contract
+IT,Cybersecurity,April,2024,4200,4350,Security audit
+HR,Salaries,January,2024,42000,42000,HR team
+HR,Recruitment,January,2024,6500,7500,More openings than expected
+HR,Benefits Admin,January,2024,3500,3500,Benefits platform
+HR,Training Programs,January,2024,8500,7200,Leadership training
+HR,Employee Events,January,2024,2500,2350,Monthly team event
+HR,Salaries,February,2024,42000,42000,HR team
+HR,Recruitment,February,2024,6500,8750,Continued hiring push
+HR,Benefits Admin,February,2024,3500,3500,Benefits platform
+HR,Training Programs,February,2024,4500,4250,Regular training sessions
+HR,Employee Events,February,2024,1500,1750,Valentine's Day event
+HR,Salaries,March,2024,42000,42000,HR team
+HR,Recruitment,March,2024,6500,5750,Slower hiring month
+HR,Benefits Admin,March,2024,3500,3500,Benefits platform
+HR,Training Programs,March,2024,4500,4750,Additional compliance training
+HR,Employee Events,March,2024,3500,3950,Quarterly team building
+HR,Salaries,April,2024,45000,45000,HR team + new hire
+HR,Recruitment,April,2024,6500,6250,Regular recruitment
+HR,Benefits Admin,April,2024,3500,3500,Benefits platform
+HR,Training Programs,April,2024,4500,4600,Regular training sessions
+HR,Employee Events,April,2024,1500,1350,Monthly team event
+Finance,Salaries,January,2024,38000,38000,Finance team
+Finance,Accounting Software,January,2024,2500,2500,Monthly subscription
+Finance,Audit Services,January,2024,0,0,Not scheduled
+Finance,Tax Services,January,2024,0,0,Not tax season
+Finance,Banking Fees,January,2024,750,725,Regular fees
+Finance,Salaries,February,2024,38000,38000,Finance team
+Finance,Accounting Software,February,2024,2500,2500,Monthly subscription
+Finance,Audit Services,February,2024,15000,16500,Annual audit started
+Finance,Tax Services,February,2024,4500,4500,Tax prep begins
+Finance,Banking Fees,February,2024,750,800,Higher transaction volume
+Finance,Salaries,March,2024,38000,38000,Finance team
+Finance,Accounting Software,March,2024,2500,2500,Monthly subscription
+Finance,Audit Services,March,2024,10000,12000,Audit completion
+Finance,Tax Services,March,2024,8500,9250,Tax filing work
+Finance,Banking Fees,March,2024,750,780,Regular fees
+Finance,Salaries,April,2024,38000,38000,Finance team
+Finance,Accounting Software,April,2024,2500,2500,Monthly subscription
+Finance,Audit Services,April,2024,0,0,Completed
+Finance,Tax Services,April,2024,6000,6750,Final tax filing
+Finance,Banking Fees,April,2024,750,750,Regular fees
+R&D,Salaries,January,2024,65000,65000,Research team
+R&D,Lab Equipment,January,2024,12000,11500,Regular equipment
+R&D,Materials,January,2024,7500,7250,Research materials
+R&D,Software,January,2024,5500,5500,Specialized software
+R&D,Patents,January,2024,2000,0,No filings this month
+R&D,Salaries,February,2024,65000,65000,Research team
+R&D,Lab Equipment,February,2024,5000,4750,Small equipment purchases
+R&D,Materials,February,2024,7500,8200,Additional materials needed
+R&D,Software,February,2024,1500,1500,Monthly subscriptions
+R&D,Patents,February,2024,2000,7500,New patent filing
+R&D,Salaries,March,2024,65000,65000,Research team
+R&D,Lab Equipment,March,2024,5000,4850,Regular equipment
+R&D,Materials,March,2024,7500,7650,Research materials
+R&D,Software,March,2024,1500,1500,Monthly subscriptions
+R&D,Patents,March,2024,2000,0,No filings this month
+R&D,Salaries,April,2024,68000,68000,Research team + bonus
+R&D,Lab Equipment,April,2024,15000,16250,Major equipment upgrade
+R&D,Materials,April,2024,7500,7200,Research materials
+R&D,Software,April,2024,1500,1500,Monthly subscriptions
+R&D,Patents,April,2024,2000,2500,Patent maintenance
+Executive,Salaries,January,2024,75000,75000,Executive team
+Executive,Travel,January,2024,15000,12500,Less travel than expected
+Executive,Consultants,January,2024,20000,20000,Strategy consultants
+Executive,Board Expenses,January,2024,5000,4750,Board meeting
+Executive,Conferences,January,2024,8000,8500,Industry leadership conference
+Executive,Salaries,February,2024,75000,75000,Executive team
+Executive,Travel,February,2024,12000,14500,Additional investor meetings
+Executive,Consultants,February,2024,20000,20000,Strategy consultants
+Executive,Board Expenses,February,2024,0,0,No meeting
+Executive,Conferences,February,2024,0,0,No conferences
+Executive,Salaries,March,2024,75000,75000,Executive team
+Executive,Travel,March,2024,12000,15750,International trips added
+Executive,Consultants,March,2024,20000,20000,Strategy consultants
+Executive,Board Expenses,March,2024,5000,5250,Quarterly board meeting
+Executive,Conferences,March,2024,12000,11500,Annual leadership summit
+Executive,Salaries,April,2024,75000,75000,Executive team
+Executive,Travel,April,2024,12000,10750,Regular travel
+Executive,Consultants,April,2024,15000,15000,Reduced consulting needs
+Executive,Board Expenses,April,2024,0,0,No meeting
+Executive,Conferences,April,2024,7500,7800,Industry conference
