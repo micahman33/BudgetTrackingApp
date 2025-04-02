@@ -106,7 +106,7 @@ Once you have the basic application working, you can refine it with follow-up pr
 ```
 Could you enhance the charts with:
 1. Titles that explain what each chart is showing
-2. A more vibrant color scheme that matches our brand colors (blue #1a73e8 and green #34a853)
+2. A more vibrant color scheme that matches our brand colors (purple #4b0082, red #e02020, and yellow #ffa500)
 3. Better tooltips that show more detail when hovering over data points
 ```
 
